@@ -4,7 +4,19 @@ Meu nome é Leonardo Silvestre Santos estou cursando Tecnologia da Informação 
 
 Ao longo dos projetos acadêmicos, adquiri experiência no trabalho em equipe, organização de tarefas, resolução de problemas e desenvolvimento de soluções voltadas para cenários reais. Também desenvolvi habilidades em lógica de programação, prototipagem de circuitos eletrônicos, comunicação entre dispositivos e documentação técnica de projetos.
 
-## Algumas da 
+## CONTATOS PARA CONTATO
+
+leonardosilvestre479@gmail.com
+
+## VISÃO PARA O FUTURO
+
+Tenho grande interesse na área de desenvolvimento de jogos, buscando futuramente aprofundar meus conhecimentos em programação, criação de sistemas interativos e desenvolvimento de experiências digitais. Meu objetivo é unir criatividade e tecnologia para participar da criação de jogos inovadores e envolventes. Além de me tornar o melhor no que faço
+
+## PROGRAMAS:
+- PYTHON
+- PORTUGOL
+- VSCODE
+- PROJETOS QT
 
 ## CURIOSIDADES
 Sou uma pessoa dedicada, proativa e comprometida com aprendizado, sempre buscando evoluir tecnicamente e contribuir de forma positiva em ambientes colaborativos e desafiadores da área de tecnologia.Tenho facilidade para aprender novas ferramentas e tecnologias, além de me adaptar rapidamente a diferentes situações e demandas. Valorizo a organização, a comunicação e o trabalho em equipe, acreditando que a troca de conhecimentos é essencial para o desenvolvimento de projetos eficientes e inovadores.
